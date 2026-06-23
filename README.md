@@ -34,6 +34,18 @@ Le projet met en place la navigation, l’affichage dynamique des logements, ain
 
 ---
 
+## Compétences développées
+
+- Création d'une SPA avec React
+- Mise en place du routage avec React Router
+- Gestion des composants réutilisables
+- Gestion des props et du state
+- Création d'une architecture de projet maintenable
+- Développement responsive
+- Gestion des erreurs et page 404
+
+---
+
 ## Prérequis
 
 - Node.js (recommandé : version LTS)
