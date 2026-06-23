@@ -131,6 +131,20 @@ src/logements.json
 
 ---
 
+## Captures
+<img width="1060" height="890" alt="image" src="https://github.com/user-attachments/assets/aff5ff1b-cd2a-4f01-bdb5-903a89fffca7" />
+<img width="1136" height="1071" alt="image" src="https://github.com/user-attachments/assets/e6dde465-5c9b-4821-9cc1-5fc17c42c802" />
+<img width="1096" height="1067" alt="image" src="https://github.com/user-attachments/assets/2991faac-55a5-4af6-bfad-4a14cdef3421" />
+<img width="1224" height="1064" alt="image" src="https://github.com/user-attachments/assets/1bd08257-8c06-4a34-908e-293568d2c47b" />
+<img width="392" height="971" alt="image" src="https://github.com/user-attachments/assets/35b504b0-7d30-43c3-a8f2-94e675cc791a" />
+<img width="948" height="711" alt="image" src="https://github.com/user-attachments/assets/ecafd7a7-bbaa-4635-8943-00e033175da5" />
+
+
+
+
+
+
+
 ## Auteur
 Projet réalisé dans le cadre de la formation
 OpenClassrooms – Intégrateur Web.
