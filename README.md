@@ -1,6 +1,6 @@
 # Kasa
 
-Projet 7 réalisé dans le cadre de la formation Intégrateur Web d’OpenClassrooms.
+Projet 6 réalisé dans le cadre de la formation Intégrateur Web d’OpenClassrooms.
 Application front-end React pour le site de location immobilière **Kasa**.  
 Le projet met en place la navigation, l’affichage dynamique des logements, ainsi que des pages dédiées (Accueil, À propos, Fiche logement, Erreur 404).
 
